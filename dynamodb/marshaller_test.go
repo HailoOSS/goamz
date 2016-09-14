@@ -1,7 +1,7 @@
 package dynamodb_test
 
 import (
-	"github.com/hailocab/goamz/dynamodb"
+	"github.com/HailoOSS/goamz/dynamodb"
 	"launchpad.net/gocheck"
 	"time"
 )

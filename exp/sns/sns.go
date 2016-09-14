@@ -27,7 +27,7 @@ package sns
 import (
 	"encoding/xml"
 	"errors"
-	"github.com/hailocab/goamz/aws"
+	"github.com/HailoOSS/goamz/aws"
 	"net/http"
 	"net/url"
 	"strconv"

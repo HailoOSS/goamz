@@ -2,7 +2,7 @@ package aws_test
 
 import (
 	"fmt"
-	"github.com/hailocab/goamz/aws"
+	"github.com/HailoOSS/goamz/aws"
 	"launchpad.net/gocheck"
 	"net/http"
 	"strings"

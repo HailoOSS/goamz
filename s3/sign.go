@@ -4,7 +4,7 @@ import (
 	"crypto/hmac"
 	"crypto/sha1"
 	"encoding/base64"
-	"github.com/hailocab/goamz/aws"
+	"github.com/HailoOSS/goamz/aws"
 	"log"
 	"sort"
 	"strings"

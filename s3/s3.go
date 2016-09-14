@@ -17,7 +17,7 @@ import (
 	"encoding/base64"
 	"encoding/xml"
 	"fmt"
-	"github.com/hailocab/goamz/aws"
+	"github.com/HailoOSS/goamz/aws"
 	"io"
 	"io/ioutil"
 	"log"

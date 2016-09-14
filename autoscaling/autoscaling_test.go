@@ -1,9 +1,9 @@
 package autoscaling_test
 
 import (
-	"github.com/hailocab/goamz/autoscaling"
-	"github.com/hailocab/goamz/aws"
-	"github.com/hailocab/goamz/testutil"
+	"github.com/HailoOSS/goamz/autoscaling"
+	"github.com/HailoOSS/goamz/aws"
+	"github.com/HailoOSS/goamz/testutil"
 	"launchpad.net/gocheck"
 	"testing"
 	"time"

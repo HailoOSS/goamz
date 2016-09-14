@@ -6,7 +6,7 @@ import (
 	"encoding/hex"
 	"encoding/xml"
 	"fmt"
-	"github.com/hailocab/goamz/s3"
+	"github.com/HailoOSS/goamz/s3"
 	"io"
 	"io/ioutil"
 	"log"

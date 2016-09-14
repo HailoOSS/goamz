@@ -1,7 +1,7 @@
 #GoLang AWS Cloudwatch
 
 ## Installation
-Please refer to the project's main page at [https://github.com/hailocab/goamz](https://github.com/hailocab/goamz) for instructions about how to install.
+Please refer to the project's main page at [https://github.com/HailoOSS/goamz](https://github.com/HailoOSS/goamz) for instructions about how to install.
 
 ## Available methods
 
@@ -30,8 +30,8 @@ import (
     "fmt"
     "time"
     "os"
-    "github.com/hailocab/goamz/aws"
-    "github.com/hailocab/goamz/cloudwatch"
+    "github.com/HailoOSS/goamz/aws"
+    "github.com/HailoOSS/goamz/cloudwatch"
 )
 
 func test_get_metric_statistics() {
@@ -79,8 +79,8 @@ import (
     "fmt"
     "time"
     "os"
-    "github.com/hailocab/goamz/aws"
-    "github.com/hailocab/goamz/cloudwatch"
+    "github.com/HailoOSS/goamz/aws"
+    "github.com/HailoOSS/goamz/cloudwatch"
 )
 
 func test_list_metrics() {

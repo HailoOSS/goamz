@@ -1,8 +1,8 @@
 package ec2_test
 
 import (
-	"github.com/hailocab/goamz/aws"
-	"github.com/hailocab/goamz/ec2"
+	"github.com/HailoOSS/goamz/aws"
+	"github.com/HailoOSS/goamz/ec2"
 	"launchpad.net/gocheck"
 )
 

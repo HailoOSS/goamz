@@ -2,8 +2,8 @@ package dynamodb_test
 
 import (
 	simplejson "github.com/bitly/go-simplejson"
-	"github.com/hailocab/goamz/aws"
-	"github.com/hailocab/goamz/dynamodb"
+	"github.com/HailoOSS/goamz/aws"
+	"github.com/HailoOSS/goamz/dynamodb"
 	"launchpad.net/gocheck"
 )
 

@@ -3,7 +3,7 @@ package sts
 import (
 	"encoding/xml"
 	"fmt"
-	"github.com/hailocab/goamz/aws"
+	"github.com/HailoOSS/goamz/aws"
 	"log"
 	"net/http"
 	"net/http/httputil"

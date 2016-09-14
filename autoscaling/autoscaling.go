@@ -3,8 +3,8 @@
 //
 // Depends on https://wiki.ubuntu.com/goamz
 //
-// Written by Boyan Dimitrov <boyan.dimitrov@hailocab.com>
-// Maintained by the Hailo Platform Team <platform@hailocab.com>
+// Written by Boyan Dimitrov <boyan.dimitrov@HailoOSS.com>
+// Maintained by the Hailo Platform Team <platform@HailoOSS.com>
 
 package autoscaling
 
@@ -12,7 +12,7 @@ import (
 	"encoding/base64"
 	"encoding/xml"
 	"fmt"
-	"github.com/hailocab/goamz/aws"
+	"github.com/HailoOSS/goamz/aws"
 	"log"
 	"net/http"
 	"net/http/httputil"
